@@ -1,2 +1,2 @@
 echo helloo
- echo -e "\e[33mhelloo in YELLOW Color\e[0m"
+ echo -e "\e[32mhelloo in GREEN Color\e[0m"
