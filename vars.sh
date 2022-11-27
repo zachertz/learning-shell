@@ -4,3 +4,5 @@ a=10
 
 Access a variable - $ VARNAME
 echo A- $a
+# a
+#
