@@ -1,2 +1,2 @@
-echo hello
- echo -e "\e[31mhello in RED Color\e[0m"
+echo helloo
+ echo -e "\e[31mhelloo in RED Color\e[0m"
