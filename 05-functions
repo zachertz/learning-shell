@@ -1,6 +1,7 @@
 SAMPLE() {
+a=200
  echo i am a function
  }
 
-
+a=10
 SAMPLE
