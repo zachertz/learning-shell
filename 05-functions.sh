@@ -1,8 +1,9 @@
 SAMPLE() {
   echo I am a function
-a=200
+a=300
 
 }
 
-echo a-$a
+
 SAMPLE
+echo a-$a
